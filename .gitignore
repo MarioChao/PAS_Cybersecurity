@@ -1,2 +1,5 @@
 _secret_
 __pycache__
+.DS_Store
+.venv
+secret.py
